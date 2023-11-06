@@ -1,16 +1,17 @@
 ## Lars Nolden
-Hey there 👋.
-I am Lars, a Full-Stack developer from Germany.
+Hey there 👋.<br>
+I am Lars, a Full-Stack developer from Germany.<br>
 My focus is on TypeScript based applications with React/Next frontends.
-
+<br>
+<br>
 You can reach me at <me@larsnolden.com>
-&nbsp;
+
 ## SKILLS
 
 - **Technical:** Full-Stack Development, Product Development, CI/CD, Versioning (Git), Unix, GCloud, Azure.
 - **Personal:** Deep sense of project ownership, Strong but loosely held technical opinions, Practical problem-solving.
 - **Tools:** TypeScript, JavaScript ES7, React, Node, Next, Ramda, Redux, Express, Python, Pandas, REST, GraphQL, PostgreSQL, Kubernetes.
-&nbsp;
+
 ## EXPERIENCE
 
 ### Headfound.com
@@ -62,9 +63,11 @@ June 2017 - July 2018
 - Built and led the development of multiple features for the web platform using React, Node, GraphQl, and Web-Sockets.
 - Influenced product decisions with valuable data, gathered through customer analytics.
 - Boosted website traffic by pinpointing a persistent domain issue through user interviews, devising and building a solution, channeling users from that solution to our primary offering. [Launching into the top 15 on ProductHunt](https://www.producthunt.com/products/robin-4#finder-2).
-&nbsp;
+
 ## EDUCATION
 
 **University of Twente**, Enschede, Netherlands  
 Mechanical Engineering, Bachelor of Science  
 Enrolled: September 2020 | Graduated: August 2023
+<br>
+[PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
