@@ -1,4 +1,3 @@
-## Lars Nolden
 Hey there 👋.<br>
 I am Lars, a Full-Stack developer from Germany.<br>
 My focus is on TypeScript based applications with React/Next frontends.
