@@ -4,6 +4,8 @@ My focus is on TypeScript based applications with React/Next frontends.
 <br>
 <br>
 You can reach me at <me@larsnolden.com>
+<br>
+[PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
 
 ## SKILLS
 
@@ -68,7 +70,3 @@ June 2017 - July 2018
 **University of Twente**, Enschede, Netherlands  
 Mechanical Engineering, Bachelor of Science  
 Enrolled: September 2020 | Graduated: August 2023
-<br>
-&nbsp;
-***
-[PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
