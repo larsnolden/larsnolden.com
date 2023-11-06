@@ -71,3 +71,5 @@ June 2017 - July 2018
 **University of Twente**, Enschede, Netherlands  
 Mechanical Engineering, Bachelor of Science  
 Enrolled: September 2020 | Graduated: August 2023
+
+[<img src="https://MYCODE.goatcounter.com/count?p=/main">]()
