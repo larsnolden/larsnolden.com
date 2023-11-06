@@ -5,6 +5,7 @@ My focus is on TypeScript based applications with React/Next frontends.
 <br>
 You can reach me at <me@larsnolden.com>
 <br>
+<br>
 [PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
 
 ## SKILLS
