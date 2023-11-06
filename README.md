@@ -72,4 +72,4 @@ June 2017 - July 2018
 Mechanical Engineering, Bachelor of Science  
 Enrolled: September 2020 | Graduated: August 2023
 
-[<img src="https://MYCODE.goatcounter.com/count?p=/main">]()
+[<img src="https://larsnolden.goatcounter.com/count?p=/main">]()
