@@ -70,4 +70,5 @@ June 2017 - July 2018
 Mechanical Engineering, Bachelor of Science  
 Enrolled: September 2020 | Graduated: August 2023
 <br>
+&nbsp;
 [PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
