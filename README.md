@@ -12,18 +12,19 @@ You can reach me at <me@larsnolden.com>
 [PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
 ## SKILLS
 
-- **Technical:** Full-Stack Development, Product Development, CI/CD, Versioning (Git), Unix, GCloud, Azure.
+- **Technical:** Full-Stack Development, Product Development, CI/CD, Versioning (Git), Unix, Google-Cloud-Platform, Azure.
 - **Personal:** Deep sense of project ownership, Strong but loosely held technical opinions, Practical problem-solving.
-- **Tools:** TypeScript, JavaScript ES7, React, Node, Next.js, Ramda, Redux, Express, Python, Pandas, GO, REST, GraphQL, PostgreSQL, Kubernetes.
+- **Tools:** TypeScript, JavaScript ES7, React, Node, Next.js, Tailwindcss, Ramda, Redux, Express, Python, Pandas, GO, REST, GraphQL, PostgreSQL, Kubernetes.
 
 ## EXPERIENCE
 
 ### Headfound.com
 *Software Developer (part-time) | Köln, DE*  
 March 2020 - Ongoing
-- Developed and maintained the company's job-portal using Next.js and TypeScript.
+- Developed and maintained the company's [job-portal](https://jobs.headfound.com) using Next.js and TypeScript.
 - Reduced response times from tens of seconds to less than one second by implementing an API caching layer.
 - Saved the sales team significant time by creating a data ingestion and preparation app.
+
 ```
 Next.js, Typescript, React.js, Node.js, Azure Cloud, SSR, Postgres, Tailwindcss, CI/CD
 ```
@@ -70,9 +71,9 @@ React.js, xlsx.js, Node.js, React.Suspense, Webpack
 ### Bidmatik
 *Founder | Toronto, CA*  
 February 2019 - October 2019
-- Built Bidmatik, a SaaS product for automated keyword discovery and bidding on Amazon PPC.
-- Designed and integrated the React based front-end.
-- Created back-end micro-services in TypeScript, deployed on Google Cloud Kubernetes Engine.
+- Built [Bidmatik](https://bidmatik.com), a SaaS product for automated keyword discovery and bidding on Amazon PPC.
+- Designed and integrated the [React based front-end](https://github.com/larsnolden/bidmatik_client).
+- Created multiple [back-end micro-services](https://github.com/larsnolden/bidmatik_user) in TypeScript, deployed on Google Cloud Kubernetes Engine.
 - Navigated product development based on insights gathered via customer interviews.
 ```
 React.js, TypeScript, Node.js, AWS, Kubernetes, Docker
