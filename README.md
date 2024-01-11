@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" style="border-radius: 10px" src="https://github.com/larsnolden/larsnolden.com/blob/main/tinywow_profile_photo_44954673(1).png" />
+<img align="left" width="150" height="150" style="border-radius: 10px" src="https://s3.amazonaws.com/larsnolden.com/profile_pic.png" />
 
 Hey there 👋.<br>
 I am Lars, a Full-Stack developer from Germany.<br>
