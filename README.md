@@ -119,6 +119,8 @@ June 2017 - July 2018
 React.js, Node.js, Google-Cloud-Platform, CI/CD
 ```
 
+<br>
+
 ## EDUCATION
 
 **University of Twente**, Enschede, Netherlands  
