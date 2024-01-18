@@ -9,7 +9,7 @@ You can reach me at <me@larsnolden.com>
 <br>
 <br>
 <br>
-[PDF RESUME]([https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf](https://s3.amazonaws.com/larsnolden.com/LarsNoldenResume.pdf)
+[PDF RESUME](https://s3.amazonaws.com/larsnolden.com/LarsNoldenResume.pdf)
 
 ## SKILLS
 
