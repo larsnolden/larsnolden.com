@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" style="border-radius: 10px" src="https://s3.amazonaws.com/larsnolden.com/profile_pic.png" />
+<img align="left" width="155" height="155" style="border-radius: 10px" src="https://s3.amazonaws.com/larsnolden.com/profile_pic.png" />
 
 Hey there 👋.<br>
 I am Lars, a Full-Stack developer from Germany.<br>
@@ -21,7 +21,7 @@ You can reach me at <me@larsnolden.com>
 ## Projects
 
 <div style="margin-bottom: 15px;">
-    <img align="left" width="100" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/KankanbanLogo.png" />
+    <img align="left" width="110" height="110" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/KankanbanLogo.png" />
     <div>
         <h3>KanKanBan (2023)</h3>
         <p><strong></strong> <a href="https://kankanban.com">kankanban.com</a><br>
@@ -30,7 +30,7 @@ You can reach me at <me@larsnolden.com>
 </div>
 
 <div style="margin-bottom: 15px;">
-    <img align="left" width="auto" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/BidmatikLogoSmallSquare.png" />
+    <img align="left" width="110" height="110" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/BidmatikLogoSmallSquare.png" />
     <div>
         <h3>Bidmatik (2019)</h3>
         <p><strong></strong> <a href="https://bidmatik.com">bidmatik.com</a><br>
@@ -39,7 +39,7 @@ You can reach me at <me@larsnolden.com>
 </div>
 
 <div style="margin-bottom: 15px;">
-    <img align="left" width="100" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/FindrLogo.png" />
+    <img align="left" width="110" height="110" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/FindrLogo.png" />
     <div>
         <h3>Finder (2018)</h3>
         <p><strong></strong> <a href="https://producthunt.com/posts/finder-2">producthunt.com/posts/finder-2</a><br>
