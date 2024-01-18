@@ -9,14 +9,13 @@ You can reach me at <me@larsnolden.com>
 <br>
 <br>
 <br>
-[PDF RESUME](https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf)
+[PDF RESUME]([https://s3.amazonaws.com/larsnolden.com/Lars_Nolden_Resume_NOV_2023.pdf](https://s3.amazonaws.com/larsnolden.com/LarsNoldenResume.pdf)
 
 ## SKILLS
 
 - **Technical:** Full-Stack Development, Product Development, CI/CD, Versioning (Git), Unix, Google-Cloud-Platform, Azure.
 - **Personal:** Deep sense of project ownership, Strong but loosely held technical opinions, Practical problem-solving.
-- **Tools:** TypeScript, JavaScript ES7, React, Node, Next.js, Tailwindcss, Ramda, Redux, Express, Python, Pandas, GO, REST, GraphQL, PostgreSQL, Kubernetes.
-
+- **Tools:** JavaScript, TypeScript, Node.js, React.js, Next.js, Gatsby, Ramda.js, Apollo, Tailwindcss, Redux/Flux, GO, Python, GraphQL, Webpack, Azure, Google Cloud, CI/CD, Cypress, E2E, Git, Pandas, Kubernetes, OAuth, Unix, PostgreSQL, Sockets, Scrum, Functional Programming.
 <br>
 
 ## EXPERIENCE
