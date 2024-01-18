@@ -18,6 +18,38 @@ You can reach me at <me@larsnolden.com>
 - **Tools:** JavaScript, TypeScript, Node.js, React.js, Next.js, Gatsby, Ramda.js, Apollo, Tailwindcss, Redux/Flux, GO, Python, GraphQL, Webpack, Azure, Google Cloud, CI/CD, Cypress, E2E, Git, Pandas, Kubernetes, OAuth, Unix, PostgreSQL, Sockets, Scrum, Functional Programming.
 <br>
 
+## Projects
+
+<div style="margin-bottom: 15px;">
+    <img align="left" width="100" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/KankanbanLogo.png" />
+    <div>
+        <h3>KanKanBan (2023)</h3>
+        <p><strong></strong> <a href="https://kankanban.com">kankanban.com</a><br>
+        Nested kanban boards productivity tool.</p>
+    </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+    <img align="left" width="auto" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/BidmatikLogoSmallSquare.png" />
+    <div>
+        <h3>Bidmatik (2019)</h3>
+        <p><strong></strong> <a href="https://bidmatik.com">bidmatik.com</a><br>
+        Automated Amazon PPC bidding tool.</p>
+    </div>
+</div>
+
+<div style="margin-bottom: 15px;">
+    <img align="left" width="100" height="100" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/FindrLogo.png" />
+    <div>
+        <h3>Finder (2018)</h3>
+        <p><strong></strong> <a href="https://producthunt.com/posts/finder-2">producthunt.com/posts/finder-2</a><br>
+        Concert ticket pricing aggregator.</p>
+    </div>
+</div>
+
+
+<br>
+
 ## EXPERIENCE
 
 ### Headfound.com
