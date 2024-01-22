@@ -86,7 +86,7 @@ Gatsby.js, Next.js, Typescript, React.js, Contentful, GraphQL, Tailwindcss
 <br>
 
 ### Stenon.io
-*Fullstack Developer (freelance, full-time) | Potsdam, DE*
+*Fullstack Developer (freelance, full-time) | Potsdam, DE*  
 January 2020 - April 2020
 - Created a user settings feature to store app settings server side.
 - Introduced React Hooks and Styled Components to the team.
