@@ -87,7 +87,7 @@ Gatsby.js, Next.js, Typescript, React.js, Contentful, GraphQL, Tailwindcss
 
 ### Stenon.io
 *Fullstack Developer (freelance, full-time) | Potsdam, DE*
-December 2019 - March 2020
+January 2020 - April 2020
 - Created a user settings feature to store app settings server side.
 - Introduced React Hooks and Styled Components to the team.
 - Set up a mono repository infrastructure for CI integration.
@@ -101,7 +101,7 @@ React.js, Typescript, Ramda, Gitlab, CI/CD
 
 ### SWD Wohnungsgesellschaft
 *Frontend Developer (freelance, full-time) | Düsseldorf, DE*  
-September 2020 - January 2021
+September 2019 - January 2020
 - Cut time to first paint by over 60% through dynamic code-splitting implementation via Webpack.
 - Increased developer productivity by introducing front-end unit tests with Jest and Enzyme.
 - Built generic composer to edit XLSX in browser, built on top of a GraphQL backend.
