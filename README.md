@@ -16,9 +16,17 @@ You can reach me at <me@larsnolden.com>
 - **Technical:** Full-Stack Development, Product Development, CI/CD, Versioning (Git), Unix, Google-Cloud-Platform, Azure.
 - **Personal:** Deep sense of project ownership, Strong but loosely held technical opinions, Practical problem-solving.
 - **Tools:** JavaScript, TypeScript, Node.js, React.js, Next.js, Gatsby, Ramda.js, Apollo, Tailwindcss, Redux/Flux, GO, Python, GraphQL, Webpack, Azure, Google Cloud, CI/CD, Cypress, E2E, Git, Pandas, Kubernetes, OAuth, Unix, PostgreSQL, Sockets, Scrum, Functional Programming.
+
 <br>
 
-## Projects
+## TALKS
+![presentation](https://github.com/larsnolden/larsnolden.com/blob/main/GraphQL_presentation.png)
+    <div>
+        <h3>Introduction to GraphQL (2019)</h3>
+        <p>React community in Cologne, Germany.</p>
+    </div>
+
+## PROJECTS
 
 <div style="margin-bottom: 15px;">
     <img align="left" width="110" height="110" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/KankanbanLogo.png" />
