@@ -20,11 +20,19 @@ You can reach me at <me@larsnolden.com>
 <br>
 
 ## TALKS
-![presentation](https://s3.amazonaws.com/larsnolden.com/GraphQL_presentation.png)
+
+<div style="margin-bottom: 15px;">
+    <img align="left" height="150" style="border-radius: 10px; margin-right: 10px;" src="https://s3.amazonaws.com/larsnolden.com/GraphQL_presentation.png" />
     <div>
         <h3>Introduction to GraphQL (2019)</h3>
         <p>React community in Cologne, Germany.</p>
     </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
 
 ## PROJECTS
 
